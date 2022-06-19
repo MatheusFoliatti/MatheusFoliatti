@@ -7,6 +7,7 @@
 - 📫 Você pode me contactar por e-mail: matheusfoliatti@gmail.com ou pelo Discord: Math#9672
 - 😄 Ele/Dele
 - ⚡ Fun facts: Gosto de aprender coisas novas, tomar café, estudar, jogar, conversar e está sendo super divertido aprender diferentes coisas em programação.
+- 🕹️ Curiosidade: O Porygon (Pokemon na minha foto de perfil) é o único pokemon que na verdade é uma programação virtual.
 
 <div align="center">
   <a href="https://github.com/MatheusFoliatti">
