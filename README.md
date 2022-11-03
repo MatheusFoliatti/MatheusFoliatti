@@ -16,6 +16,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFoliatti&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
+### Stats:
+
+<img src="https://komarev.com/ghpvc/?username=MatheusFoliatti&label=Profile%20views&color=0e75b6&style=flat">
+
 ### Linguaguens Atuais no qual eu sei programar: 
   
 <div style="display: inline_block"><br>
