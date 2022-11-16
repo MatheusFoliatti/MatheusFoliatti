@@ -42,12 +42,13 @@
   <img align="right" alt="Matheus-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqy0sbs-B-VU1vALKvNLM89dh8d7V-SHsc3A&usqp=CAU">
 </div>
   
-  ##
+### Redes Sociais: 
   
 <div> 
   <a href="https://instagram.com/foliattimatheus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matheusfoliatti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/matheus-foliatti-054999241/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 ![gitartwork](gitartwork.svg)
   
