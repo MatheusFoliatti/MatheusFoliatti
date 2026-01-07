@@ -43,7 +43,7 @@ Tenho conhecimento sólido em **desenvolvimento web**, automação de processos 
   <img align="center" alt="PostgreSQL" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="n8n" height="30" width="40"
-  src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.svg">
+  src="https://cdn.simpleicons.org/n8n">
   <img align="center" alt="Figma" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="VSCode" height="30" width="40"
