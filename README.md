@@ -10,12 +10,6 @@
 - ⚡ Fun facts: Gosto de aprender coisas novas, tomar café, estudar, jogar, conversar e está sendo super divertido aprender diferentes coisas em programação.
 - 🕹️ Curiosidade: O Porygon (Pokemon na minha foto de perfil) é o único pokemon que na verdade é uma programação virtual.
 
-<div align="center">
-  <a href="https://github.com/MatheusFoliatti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusFoliatti&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFoliatti&layout=compact&langs_count=7&theme=merko"/>
-</div>
-
 ### Stats:
 
 <img src="https://komarev.com/ghpvc/?username=MatheusFoliatti&label=Profile%20views&color=0e75b6&style=flat">
@@ -35,7 +29,6 @@
   <img align="center" alt="Matheus-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Matheus-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Matheus-PostgresSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Matheus-Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Matheus-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Matheus-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
