@@ -48,9 +48,6 @@ Tenho conhecimento sólido em **desenvolvimento web**, automação de processos 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="VSCode" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-
-  <img align="right" alt="profile-pic" height="150" style="border-radius:50px;"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/porygon/porygon-original.svg">
 </div>
 
 ---
